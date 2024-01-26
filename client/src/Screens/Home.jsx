@@ -293,7 +293,6 @@ const Home = () => {
               <th scope="col">Pais</th>
               <th scope="col">Cargo</th>
               <th scope="col">Experiencia</th>
-
               <th scope="col">acciones</th>
             </tr>
           </thead>
